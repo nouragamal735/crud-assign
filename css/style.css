@@ -74,3 +74,12 @@ input{
 .btn-after{
     border-bottom: 2px dotted #352e28;
 }
+
+
+a{ text-decoration: none;
+    font-weight: 400;
+    color: white;
+}
+.table{
+    --bs-table-bg: #F8F9FA ;
+}
